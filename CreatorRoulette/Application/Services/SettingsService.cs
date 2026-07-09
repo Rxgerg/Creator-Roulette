@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
-using CreatorRoulette.Models;
+using CreatorRoulette.Core.Models;
 
-namespace CreatorRoulette.Services
+namespace CreatorRoulette.Application.Services
 {
     public class SettingsService
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CreatorRoulette.Models
+namespace CreatorRoulette.Core.Models
 {
     public class AppSettings
     {
