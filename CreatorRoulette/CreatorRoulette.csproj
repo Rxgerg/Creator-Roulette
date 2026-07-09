@@ -9,8 +9,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Data\" />
-    <Folder Include="ViewModels\" />
+    <Folder Include="Core\Enums\" />
+    <Folder Include="Core\Constants\" />
+    <Folder Include="Presentation\Controls\" />
+    <Folder Include="Presentation\Commands\" />
+    <Folder Include="Presentation\ViewModels\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Data\Templates\league-of-legends.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

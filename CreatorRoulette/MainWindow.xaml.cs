@@ -1,6 +1,6 @@
 ﻿using System.Windows;
-using CreatorRoulette.Models;
-using CreatorRoulette.Services;
+using CreatorRoulette.Application.Services;
+using CreatorRoulette.Core.Models;
 using CreatorRoulette.Views;
 
 namespace CreatorRoulette;
